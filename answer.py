@@ -40,7 +40,7 @@ def prime_number(number):
     return num
     
 
-def while_loop():
+def while_loop(num):
     
     """
     This is to review interactive loops and error statements
